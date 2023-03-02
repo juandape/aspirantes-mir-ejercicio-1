@@ -11,4 +11,4 @@ configuracion de nombre global en git:
 pasar a la carpeta padre - cd..
 inciar git - git init
 agregar al indice - git add .
-agregar commit - git commit -m "
+agregar commit - git commit -m "Version Inicial"
